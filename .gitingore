@@ -1,0 +1,15 @@
+# Secrets & loot — never commit
+flags.txt
+*.flag
+creds*.txt
+loot/
+.env
+
+# HTB / VPN
+*.ovpn
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
